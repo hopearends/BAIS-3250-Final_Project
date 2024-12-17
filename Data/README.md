@@ -4,15 +4,17 @@
 
 ---
 
-#### Source data: link here
+#### Scraped Data: https://www.espn.com/nfl/attendance/_/year/20XX
 
-#### Raw
+#### Kaggle CSV: https://www.kaggle.com/datasets/nickcantalupa/nfl-team-data-2003-2023
 
-Original, unmodified data after dowloading, scraping, etc.
+#### Raw Folder
+
+Contains the raw scraped data along with the original csv file from Kaggle.
 
 #### Final
 
-Data after all cleaning, processing and analyzing is done.
+Final csv files with merged data from scraping and Kaggle csv file.
 
 ---
 
