@@ -10,10 +10,6 @@
 
 Original, unmodified data after dowloading, scraping, etc.
 
-#### Processing
-
-Data that is in the process of being cleaned and analyzed.
-
 #### Final
 
 Data after all cleaning, processing and analyzing is done.
