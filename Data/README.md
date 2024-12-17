@@ -20,8 +20,6 @@ Cleaned data files along with final csv files with merged data from scraping and
 
 #### Data Dictionary
 
-#### Data Dictionary
-
 | Column                   | Type    | Description                                  |
 | ------------------------ | ------- | -------------------------------------------- |
 | `team`                   | Float   | Name of the NFL team                         |
