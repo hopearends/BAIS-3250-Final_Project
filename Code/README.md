@@ -2,9 +2,9 @@
 
 # Notebooks Folder
 
-Python Jupyter notebooks (.ipynb). Files are labled in order of how they should be ran.
+Python Jupyter notebooks (.ipynb). Files are labled in order of how they should be ran. 00 is just the scraping file.
 
-- Scraping_Raw.ipyd
+- 00_Scraping_Raw.ipyd
 - 01_Scraping_Clean.ipynb
 - 02_Kaggle_DF.ipynb
 - 03_Merged.ipynb
