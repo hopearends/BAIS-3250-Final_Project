@@ -1,3 +1,3 @@
 # Results
 
-Use this folder to hold an results are finding.
+Here you can find our final findings in our report.

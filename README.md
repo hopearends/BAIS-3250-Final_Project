@@ -1,16 +1,13 @@
 # data_analytics_template
 
-Use this template when you are starting a new data analysis project.
+This is our final project for BAIS:3250. This course taught us how to scrae, analyze, and clean data in jupiter notebook. Using the things that we learned we conducted a analysis on NFL Teams & their attendance trends along with key statistics.
 
 ## To-do List:
 
-- [ ] Project Planning
-- [ ] Data Collection
-- [ ] Data Cleaning & Preprocessing
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Feature Engineering
-- [ ] Model Building (if applicable)
-- [ ] Model Evaluation & Interpretation
-- [ ] Reporting & Visualization
-- [ ] Deployment & Maintenance (if applicable)
-- [ ] Project Review & Closure
+- [x] Project Proposal
+- [x] Data Collection
+- [x] Data Cleaning & Preprocessing
+- [x] Exploratory Data Analysis (EDA)
+- [x] Reporting & Visualization
+- [x] Project Report
+- [x] GitHub Publishing
