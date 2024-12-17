@@ -14,7 +14,7 @@ Contains the raw scraped data along with the original csv file from Kaggle.
 
 #### Final
 
-Final csv files with merged data from scraping and Kaggle csv file.
+Cleaned data files along with final csv files with merged data from scraping and Kaggle csv file.
 
 ---
 
