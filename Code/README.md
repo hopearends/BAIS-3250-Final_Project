@@ -2,16 +2,13 @@
 
 # Notebooks Folder
 
-Python Jupyter notebooks (.ipynb). Files should be prefixed with the order they should run in.
+Python Jupyter notebooks (.ipynb). Files are labled in order of how they should be ran.
 
-- 00_file1.ipynb
-- 01_file1.ipynb
-- 02_file2.ipynb
-
-# Scripts Folder
-
-Python scripts (.py). Files should be prefixed with the order they should run in.
-
-- 00_file1.py
-- 01_file1.py
-- 02_file2.py
+- Scraping_Raw.ipyd
+- 01_Scraping_Clean.ipynb
+- 02_Kaggle_DF.ipynb
+- 03_Merged.ipynb
+- 04_Question1.ipynb
+- 05_Question2.ipynb
+- 06_Question3.ipynb
+- 07_Question4.ipynb
